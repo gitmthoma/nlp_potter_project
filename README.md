@@ -10,7 +10,7 @@ The focus of the project was the learning experience by documenting and reflecti
 Thus, the implementation of the NLP question is based on rather rudimentary Python knowledge and the desire to gain first basic knowledge in the application and understanding of NLP software. 
 For this purpose, first an outline of theoretical basics will be recorded, in a further step the implementation will be documented and finally the project experience will be reflected upon. 
 
-The corresponding repository contains the data (hp_data), a folder with Python and Markdown basics (project_basics), a notebook with code and one with documentation, as well as the visualizations in separate folders (hp_sentimentDistribution, hp_network, hp_wordclouds) and this readme.txt.
+The corresponding repository contains the data (hp_data), a folder with Python and Markdown basics (project_basics), a notebook with code and one with documentation, as well as the visualizations in separate folders (hp_sentimentDistribution, hp_network, hp_wordclouds), the database (hp-dataset-with-relations.sqlite), a textfile including the dialogtext (all_parts.txt) and this Readme (readme.txt).
 
 
 @authors: Teresa Wendel, Merle-Sophie Thoma (January 30, 2022)
