@@ -13,4 +13,4 @@ For this purpose, first an outline of theoretical basics will be recorded, in a 
 The corresponding repository contains the data (hp_data), a folder with Python and Markdown basics (project_basics), a notebook with code and one with documentation, as well as the visualizations in separate folders (hp_sentimentDistribution, hp_network, hp_wordclouds), the database (hp-dataset-with-relations.sqlite), a textfile including the dialogtext (all_parts.txt) and this Readme (readme.txt).
 
 
-@authors: Teresa Wendel, Merle-Sophie Thoma (January 30, 2022)
+@authors: Teresa Wendel, Merle-Sophie Thoma (January 31, 2022)
