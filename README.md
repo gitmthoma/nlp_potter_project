@@ -10,3 +10,4 @@ The corresponding repository contains the data (hp_data), a folder with Python a
 
 
 @authors: Teresa Wendel, Merle-Sophie Thoma (January 31, 2022)
+Weiternutzung als OER ausdrücklich erlaubt: Dieses Werk und dessen Inhalte sind - sofern nicht anders angegeben - lizenziert unter CC BY 4.0. Nennung bitte wie folgt: "Harry Potter and a network analysis" von Merle-Sophie Thoma und Teresa Wendel, Lizenz: CC BY 4.0.
